@@ -20,6 +20,9 @@ PUT YOUR QR CODE IMAGE
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
+
+![Screenshot (1)](https://github.com/ParthPatel101019/is601homework7-spring2024/assets/157995349/12728570-d37b-4445-b8c5-d6eadbc06028)
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
